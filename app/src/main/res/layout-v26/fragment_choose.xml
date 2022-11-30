@@ -133,6 +133,7 @@
             android:prompt="@string/choose_question_type"
             android:dropDownVerticalOffset="70dp"
             android:dropDownSelector="@color/colorBlack"
+            android:background="@drawable/inputbox"
             app:layout_constraintEnd_toStartOf="@+id/guideline10"
             app:layout_constraintHorizontal_bias="0.5"
             app:layout_constraintStart_toStartOf="@+id/guideline8"
