@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--按压时的效果-->
+    <item android:state_pressed="true">
+        <shape>
+            <solid android:color="@color/colorAccent"/>
+            <corners android:radius="1000dp"/>
+        </shape>
+    </item>
+    <!--不按压时的效果-->
+    <item android:state_pressed="false">
+        <shape>
+            <solid android:color="@color/colorGrey"/>
+            <corners android:radius="1000dp"/>
+        </shape>
+    </item>
+</selector>

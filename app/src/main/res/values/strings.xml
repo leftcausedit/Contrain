@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">Countrain</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_message">Welcome to Countrain!</string>
+    <string name="title_image_info" translatable="false">title image</string>
+    <string name="title_enter_message">Enter</string>
+    <string name="title_finished_times">Finished times:%d</string>
+    <string name="history_total_number">Total number:</string>
+    <string name="choose_title_message">Make Your Choose</string>
+    <string name="choose_question_number">question number:</string>
+    <string name="choose_question_type">question type</string>
+    <string name="choose_question_type_2">Question type:</string>
+    <string name="choose_data_type_2">Number Type:</string>
+    <string name="choose_question_type1">Add</string>
+    <string name="choose_question_type2">Sub</string>
+    <string name="choose_question_type3">Mul</string>
+    <string name="choose_question_type4">Div</string>
+    <string name="choose_question_type5">Mix</string>
+    <string name="choose_data_type">data type</string>
+    <string name="choose_data_type1">Int</string>
+    <string name="choose_data_type2">Float</string>
+    <string name="choose_button">Start</string>
+    <string name="choose_data_size_message">Data Size :</string>
+    <string name="choose_data_size_hint">Putin Data Size</string>
+    <string name="finish_title_message">Finished!</string>
+    <string name="finish_mistake_number">mistake number:%d</string>
+    <string name="finish_button_back">Back</string>
+    <string name="finish_button_mistakes">Mistakes</string>
+    <string name="finish_image_info" translatable="false">finish image</string>
+    <string name="question_question_number">question number:</string>
+    <string name="question_button0" translatable="false">0</string>
+    <string name="question_button1" translatable="false">1</string>
+    <string name="question_button2" translatable="false">2</string>
+    <string name="question_button3" translatable="false">3</string>
+    <string name="question_button4" translatable="false">4</string>
+    <string name="question_button5" translatable="false">5</string>
+    <string name="question_button6" translatable="false">6</string>
+    <string name="question_button7" translatable="false">7</string>
+    <string name="question_button8" translatable="false">8</string>
+    <string name="question_button9" translatable="false">9</string>
+    <string name="question_button_Clear">Clear</string>
+    <string name="question_button_Submit">Submit</string>
+    <string name="question_button_dian" translatable="false">.</string>
+    <string name="question_equal_symbol" translatable="false">=</string>
+    <string name="question_question_mark" translatable="false">\?</string>
+    <string name="question_input_indicator">0</string>
+    <string name="question_answer_correct_message">Correct!Go On!</string>
+    <string name="question_answer_false_message">False!Do Not Give Up!</string>
+    <string name="dialog_positive_message">OK</string>
+    <string name="dialog_negative_message">CANCLE</string>
+    <string name="quit_dialog_title">Are You Sure To Quit?</string>
+    <string name="title_nav_message">Welcome</string>
+    <string name="home_nav_message">HomePage</string>
+    <string name="history_nav_message">History</string>
+    <string name="choose_nav_message">Choose</string>
+    <string name="question_nav_message">Test</string>
+    <string name="finish_nav_message">Finish</string>
+    <string name="mistakes_nav_message">Mistakes</string>
+    <string name="question_timer_format">Used time:%s</string>
+    <string name="finish_used_time">Uesd Time:%s</string>
+    <string name="mistakes_title_message">Mistakes</string>
+    <string name="mistakes_mistakes_file">...</string>
+    <string name="mistakes_button_back">Back</string>
+    <string name="mistakes_button_clear">Clear</string>
+    <string name="mistakes_file_name" translatable="false">Mistakes.txt</string>
+    <string name="version">version:5.0.0</string>
+    <string name="history_reset">Reset</string>
+    <string name="reset_indicator">Reset Success!</string>
+    <string name="history_reset_dialog">All the data will be reset. Are you sure to reset?</string>
+    <string name="reset_dialog_positive">Yes</string>
+    <string name="toast_data_overflow">Data is too large.It was setted as 99999.</string>
+    <string name="toast_data_empty">Data is empty.It was setted as 100.</string>
+    <string name="toast_data_small">Data is too small.It was setted as 10.</string>
+    <string name="title_show_mistake">Mistakes</string>
+    <string name="finish_correct_rate">Accuracy:%f</string>
+    <string name="home_more_function">More functions are coming soon!</string>
+    <string name="home_history">Records</string>
+    <string name="home_enter_choose">Test</string>
+    <string name="history_total_mistakes">Mistake Number：%d</string>
+    <string name="history_date">Date:</string>
+    <string name="history_time">Time:</string>
+    <string name="login">login</string>
+    <string name="signup">signup</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="loginerror">login error</string>
+</resources>

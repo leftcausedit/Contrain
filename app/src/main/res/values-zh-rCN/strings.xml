@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">小小算数家</string>
+    <string name="version">版本号：5.0.0</string>
+
+    <string name="choose_button">开始答题</string>
+    <string name="choose_data_size_hint">10-99999</string>
+    <string name="choose_data_size_message">运算结果上限：</string>
+    <string name="choose_data_type">数字类型</string>
+    <string name="choose_data_type_2">数字类型：</string>
+    <string name="choose_data_type1">整数</string>
+    <string name="choose_data_type2">小数</string>
+    <string name="choose_question_number">题数：</string>
+    <string name="choose_question_type">题目类型</string>
+    <string name="choose_question_type_2">题目类型：</string>
+    <string name="choose_question_type1">加法</string>
+    <string name="choose_question_type2">减法</string>
+    <string name="choose_question_type3">乘法</string>
+    <string name="choose_question_type4">除法</string>
+    <string name="choose_question_type5">混合</string>
+
+    <string name="finish_button_back">返  回</string>
+    <string name="finish_mistake_number">错误题目数目：%d</string>
+    <string name="finish_used_time">用时: %s</string>
+    <string name="finish_button_mistakes">查看错题</string>
+
+    <string name="question_answer_correct_message">回答正确</string>
+    <string name="question_answer_false_message">回答错误</string>
+    <string name="question_button_Submit">提交</string>
+    <string name="question_button_Clear">删除</string>
+    <string name="question_input_indicator">0</string>
+    <string name="question_question_number">题号：%d</string>
+    <string name="question_timer_format">用时: %s</string>
+
+    <string name="title_enter_message">主页</string>
+    <string name="title_message">小小算数家</string>
+
+    <string name="title_nav_message">首 页</string>
+    <string name="choose_nav_message">选择题型</string>
+    <string name="question_nav_message">测试中</string>
+    <string name="finish_nav_message">完成</string>
+    <string name="mistakes_nav_message">错题</string>
+    <string name="home_nav_message">/</string>
+    <string name="history_nav_message">历史记录</string>
+
+    <string name="mistakes_title_message">错题</string>
+    <string name="mistakes_mistakes_file">...</string>
+    <string name="mistakes_button_back">返回主页</string>
+    <string name="mistakes_button_clear">清空错题</string>
+
+    <string name="history_reset">重  置</string>
+    <string name="history_reset_dialog">是否确认进行重置？</string>
+    <string name="reset_indicator">数据重置成功</string>
+    <string name="reset_dialog_positive">是</string>
+    <string name="quit_dialog_title">你确定要离开吗？</string>
+    <string name="dialog_negative_message">取消</string>
+    <string name="dialog_positive_message">确定</string>
+    <string name="toast_data_overflow">数据值过大，已设置为99999</string>
+    <string name="toast_data_small">数据值过小，已设置为10</string>
+
+    <string name="title_show_mistake">错题</string>
+    <string name="finish_correct_rate">正确率:%f</string>
+
+    <string name="home_enter_choose">答题</string>
+    <string name="home_more_function">更多功能敬请期待！</string>
+    <string name="home_history">统计</string>
+
+    <string name="title_finished_times">完成测试次数：%d</string>
+    <string name="history_total_mistakes">错题总数：%d</string>
+    <string name="finish_title_message">测试完成</string>
+    <string name="toast_data_empty">数值为空，已设置为100</string>
+    <string name="choose_title_message">题目定制</string>
+    <string name="history_date">日期：</string>
+    <string name="history_time">时间：</string>
+    <string name="login">登录</string>
+    <string name="signup">注册</string>
+    <string name="username">用户名</string>
+    <string name="password">密码</string>
+    <string name="loginerror">登陆失败</string>
+</resources>
